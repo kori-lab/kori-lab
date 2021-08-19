@@ -1,16 +1,22 @@
-### Hi there 👋
+- [ 📚 ] Apenas mais um simples estudante...
 
-<!--
-**kori-lab/kori-lab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+<details>
+  <summary> <b> outras coisinhas </b> </summary>
+  <br>
+  
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=kori-lab&show_icons=true&count_private=true&theme=radical&hide=issues" />
+  </a>
+  
+---
+  
+  <p>
+    <a href="https://github.com/ryo-ma/github-profile-trophy" align="center">
+      <img align="center" src="https://github-profile-trophy.vercel.app/?theme=dracula&margin-w=8&column=6&username=kori-lab" alt="Trophies" />
+    </a>
+  </p>
+ </details>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![GitHub Badge](https://img.shields.io/github/followers/giswqs?style=social)](https://github.com/kori-lab?tab=followers)
