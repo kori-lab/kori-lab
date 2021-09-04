@@ -1,4 +1,8 @@
-- 📚 Apenas mais um simples estudante...
+📚 Apenas mais um simples estudante...
+
+- ![JavaScript Badge](https://img.shields.io/badge/-%7C%20JavaScript-yellow?style=flat&logo=javascript&logoColor=white&link)
+- ![TypeScript Badge](https://img.shields.io/badge/-%7C%20TypeScript-blue?style=flat&logo=typescript&logoColor=white&link)
+- ![Python Badge](https://img.shields.io/badge/-%7C%20Python-blue?style=flat&logo=python&logoColor=white&link)
 
 ---
 
