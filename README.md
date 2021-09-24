@@ -24,3 +24,5 @@
  </details>
 
 [![GitHub Badge](https://img.shields.io/github/followers/giswqs?style=social)](https://github.com/kori-lab?tab=followers)
+
+![Snake animation](https://github.com/kori-lab/kori-lab/blob/output/github-contribution-grid-snake.svg)
