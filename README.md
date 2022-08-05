@@ -1,25 +1,15 @@
 Hi 👋 my name is Pedro, I'm 16 years old, I live in Brazil, I'm developing projects and having fun with the programming...
 
-## Stats 📊
-  
-<a href="https://github.com/anuraghazra/github-readme-stats" align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kori-lab&show_icons=true&count_private=true&theme=radical&hide=issues" />
-</a>
-  
-## Metrics 🐧
+# Metrics 🐧
 
-<a href="https://github.com/ryo-ma/github-profile-trophy" align="center">
-  <img align="center" src="https://github-profile-trophy.vercel.app/?theme=dracula&margin-w=8&column=6&username=kori-lab" alt="Trophies" />
-</a>
+## musics
+<img width="45%" src="https://spotify-recently-played-readme.vercel.app/api?user=a3ypeg8bwqd5uy18gwz81a970">
 
-<div style="display: flex; align-items: center; justify-content: center;">
-    <img width="45%" align="right" src="https://spotify-recently-played-readme.vercel.app/api?user=a3ypeg8bwqd5uy18gwz81a970">
-    <img align="center" src="https://github-profile-trophy.vercel.app/?theme=dracula&margin-w=8&column=6&username=kori-lab" alt="Trophies" />
-    <img width="45%" align="left"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=kori-lab&theme=dracula&margin-w=8&column=6">
-</div>
+## git stats
+<img src="https://github-readme-stats.vercel.app/api?username=kori-lab&show_icons=true&count_private=true&theme=radical&hide=issues" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kori-lab&show_icons=true&count_private=true&theme=radical&hide=issues">
+
 ## Technologies I am learning or already using 👨‍💻
-
 <div>
   <img align="center" alt="dark-markdown" src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white">
   <img align="center" alt="dark-html" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=black">
@@ -37,7 +27,7 @@ Hi 👋 my name is Pedro, I'm 16 years old, I live in Brazil, I'm developing pro
 ## Editing Development Paths ✍
 
 <div>
-  <img align="center" alt="dark-visualstudio" src="https://img.shields.io/badge/Visual%20Studio-A0eee8.svg?style=for-the-badge&logo=visual-studio&logoColor=02736b">
+  <img align="center" alt="dark-visualstudiocode" src="https://img.shields.io/badge/Visual%20Studio-A0eee8.svg?style=for-the-badge&logo=visual-studio-code&logoColor=02736b">
   <img align="center" alt="dark-git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
   <img align="center" alt="dark-github" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
   <img align="center" alt="dark-replit" src="https://img.shields.io/badge/Repl.it-%230D101E.svg?style=for-the-badge&logo=replit&logoColor=white">
