@@ -6,12 +6,18 @@ Hi 👋 my name is Pedro, I'm 16 years old, I live in Brazil, I'm developing pro
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=kori-lab&show_icons=true&count_private=true&theme=radical&hide=issues" />
 </a>
   
-## Achievements 🏆
+## Metrics 🐧
 
 <a href="https://github.com/ryo-ma/github-profile-trophy" align="center">
   <img align="center" src="https://github-profile-trophy.vercel.app/?theme=dracula&margin-w=8&column=6&username=kori-lab" alt="Trophies" />
 </a>
 
+<div style="display: flex; align-items: center; justify-content: center;">
+    <img width="45%" align="right" src="https://spotify-recently-played-readme.vercel.app/api?user=a3ypeg8bwqd5uy18gwz81a970">
+    <img align="center" src="https://github-profile-trophy.vercel.app/?theme=dracula&margin-w=8&column=6&username=kori-lab" alt="Trophies" />
+    <img width="45%" align="left"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=kori-lab&theme=dracula&margin-w=8&column=6">
+</div>
 ## Technologies I am learning or already using 👨‍💻
 
 <div>
