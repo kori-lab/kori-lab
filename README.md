@@ -24,7 +24,8 @@ Hello, my name is Pedro, have 16 years old, developing projects and having fun w
 ## Using or learning
 
 <div>
-	<img align="center" alt="dark-react" src="https://img.shields.io/badge/React-252525?style=for-the-badge&logo=React&logoColor=88f5ff">
+	<img align="center" alt="dark-react" src="https://img.shields.io/badge/React-0e1817?style=for-the-badge&logo=React&logoColor=88f5ff">
+	<img align="center" alt="dark-react" src="https://img.shields.io/badge/Prettier-0e1817?style=for-the-badge&logo=Prettier&logoColor=88f5ff">
   <img align="center" alt="dark-npm" src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white">
   <img align="center" alt="dark-yarn" src="https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white">
   <img align="center" alt="dark-node" src="https://img.shields.io/badge/node.js-0e1817?style=for-the-badge&logo=node.js&logoColor=green">
