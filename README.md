@@ -1,4 +1,4 @@
-Hello, my name is Pedro, have 16 years old, developing projects and having fun with the programming
+Hello, my name is Pedro, have 16 years old. Developing projects and having fun with the programming
 
 ## Github
 
